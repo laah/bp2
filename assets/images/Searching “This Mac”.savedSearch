@@ -438,8 +438,10 @@
 			<false/>
 			<key>ShowToolbar</key>
 			<true/>
+			<key>SidebarWidthTenElevenOrLater</key>
+			<real>188</real>
 			<key>WindowBounds</key>
-			<string>{{495, 422}, {770, 436}}</string>
+			<string>{{861, 287}, {770, 436}}</string>
 		</dict>
 	</dict>
 </dict>
